@@ -1,1 +1,2 @@
 Hello from the notepad, Jonathan Macadam
+Goodbye!
